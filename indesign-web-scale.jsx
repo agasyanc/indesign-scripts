@@ -1,1 +1,1 @@
-﻿var ucmr = app.generalPreferences.useCustomMonitorResolution;if (ucmr){        app.generalPreferences.useCustomMonitorResolution = false;    }else{    app.generalPreferences.customMonitorPpi = 72;    app.generalPreferences.useCustomMonitorResolution = true;}
+﻿var ucmr = app.generalPreferences.useCustomMonitorResolution;if (ucmr){        app.generalPreferences.useCustomMonitorResolution = false;    }else{    app.generalPreferences.customMonitorPpi = 72;    app.generalPreferences.useCustomMonitorResolution = true;}app.activeWindow.zoomPercentage = 100;
